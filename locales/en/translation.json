@@ -1,0 +1,323 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "intro": {
+    "greeting": "Hello,",
+    "name": "I'm Valery",
+    "surname": "Lytvyn",
+    "sloganPartOne": "Innovating Web Solutions",
+    "sloganPartTwo": "with React",
+    "viewProjects": "View My Projects",
+    "contactMe": "Contact Me",
+    "tagline": "Simple solutions for complex tasks!"
+  },
+  "skills": {
+    "title": "In my Projects I Use:"
+  },
+  "about": {
+    "title": "Who am I?",
+    "tagline": "Turning Ideas into Responsive Apps!",
+    "descriptionPartOne": "I am a React developer, creating modern, responsive, and user-friendly web applications. I specialize in building dynamic solutions using React, Redux, and Next.js, as well as JavaScript, TypeScript, HTML, and CSS. I focus on writing clean, maintainable code and building websites that look great and work flawlessly across devices.",
+    "descriptionPartTwo": "I have a technical background and am able to break down complex tasks into manageable solutions. I am always looking for effective ways to solve problems and am constantly learning new tools and techniques to improve my work and stay up to date with industry trends.",
+    "descriptionPartThree": "I value open and transparent communication, integrity, and a strong sense of accountability. My goal is always to meet deadlines while delivering top-notch results that surpass client expectations. Whether it involves creating a new website from the ground up or enhancing an existing project, I am committed to ensuring the success of every endeavor. If you’re seeking a dependable and skilled developer to turn your ideas into reality, I would be delighted to collaborate with you."
+  },
+  "portfolio": {
+    "title": "Portfolio.",
+    "moreLink": "More About Project",
+    "linkToPage": "Link to page",
+    "viewLink": "View Project",
+    "projectImage": "Image for project:",
+    "errorLoadingImage": "Error loading image"
+  },
+  "contact": {
+    "title": "Get in Touch.",
+    "tagline": "Let's bring your ideas to life!",
+    "descriptionPartOne": "Have a dream, a goal or a plan?",
+    "descriptionPartTwo": "Let's do it.",
+    "submitButton": {
+      "submit": "Submit",
+      "sending": "Sending...",
+      "submitted": "Message Submitted"
+    },
+    "form": {
+      "namePlaceholder": "Type your email or telegram",
+      "messagePlaceholder": "Type a message",
+      "captchaQuestion": "What is",
+      "captchaPlaceholder": "Please enter answer",
+      "captchaError": "Incorrect answer. Please try again."
+    },
+    "error": {
+      "fetchError": "An unknown error occurred.",
+      "responseError": "Failed to send:"
+    }
+  },
+  "footer": {
+    "copyright": "© Copyright 2025",
+    "location": {
+      "title": "Locate me:",
+      "address": "Odesa, Ukraine",
+      "phone": "Phone:",
+      "phoneLabel": "Telephone number",
+      "email": "Email:",
+      "emailLabel": "Email address"
+    }
+  },
+  "errorPage": {
+    "title": "Oops!",
+    "subtitle": "Sorry, an unexpected error has occurred.",
+    "backToHome": "Back to Home"
+  },
+  "project": {
+    "linkToPage": "Link to page",
+    "viewProjectLink": "View Project",
+    "viewRepositoryLink": "View Repository",
+    "keyFeatures": "Key Features:",
+    "technologiesUsed": "Technologies Used",
+    "conclusion": "Conclusion:"
+  },
+  "imageAlt": "Background pattern",
+  "projects": {
+    "kolyskaShop": {
+      "description": "Kolyska Shop is a professional project showcasing my ability to build a responsive e-commerce website with advanced features like state management, routing, and lazy loading. It demonstrates my expertise in creating user-friendly interfaces with smooth animations and efficient performance.",
+      "features": {
+        "dynamicContent": {
+          "title": "Dynamic Content",
+          "details": "Implements dynamic data handling and lazy loading for improved performance and a smooth user experience."
+        },
+        "responsiveDesign": {
+          "title": "Responsive Design",
+          "details": "The website offers a seamless shopping experience across devices, ensuring compatibility with screens of all sizes."
+        },
+        "stateManagement": {
+          "title": "State Management",
+          "details": "Uses Redux Toolkit for efficient state management, providing a robust and scalable solution for handling application state."
+        },
+        "routingCapabilities": {
+          "title": "Routing Capabilities",
+          "details": "Incorporates React Router for smooth navigation between pages and hash-based scrolling for quick access to specific sections."
+        },
+        "interactiveAnimations": {
+          "title": "Interactive Animations",
+          "details": "Framer Motion is utilized for smooth animations, enhancing the visual appeal and interactivity of the site."
+        },
+        "userEngagement": {
+          "title": "User Engagement",
+          "details": "Includes features like toast notifications (React Toastify) and interactive loading spinners to keep users informed and engaged."
+        }
+      },
+      "conclusion": "Kolyska Shop reflects my ability to create a functional and visually appealing e-commerce application using modern web technologies. It highlights my skills in responsive design, animations, state management, and optimizing application performance."
+    },
+    "garage": {
+      "description": "Garage is a personal project demonstrating my ability to create a visually engaging and functional front-end application. It highlights my skills in interactive design, routing, and smooth animations.",
+      "features": {
+        "dynamicContent": {
+          "title": "Dynamic Content",
+          "details": "The project incorporates dynamic content loading and lazy loading of images for optimized performance."
+        },
+        "responsiveDesign": {
+          "title": "Responsive Design",
+          "details": "The layout is fully responsive, providing a seamless user experience on devices of all sizes, from mobile to desktop."
+        },
+        "interactiveAnimations": {
+          "title": "Interactive Animations",
+          "details": "Smooth transitions and motion effects enhance the user experience, creating an engaging interface."
+        },
+        "routingCapabilities": {
+          "title": "Routing Capabilities",
+          "details": "Utilizes React Router for seamless navigation between different sections of the application."
+        }
+      },
+      "conclusion": "This project showcases my expertise in modern front-end development, including responsive design, animations, and component-based architecture. It reflects my commitment to creating user-friendly and visually appealing applications."
+    },
+    "estateAgency": {
+      "description": "The Estate Agency App is a estate platform designed to showcase property listings with an intuitive and visually appealing interface. This project highlights my expertise in building dynamic, responsive web applications with interactive features.",
+      "features": {
+        "responsiveDesign": {
+          "title": "Responsive Design",
+          "details": "The application provides an optimal user experience on all devices, adapting seamlessly from mobile to desktop screens."
+        },
+        "interactiveAnimations": {
+          "title": "Interactive Animations",
+          "details": "Integrated with Framer Motion to deliver smooth animations and transitions, enhancing the overall user experience."
+        },
+        "carouselFunctionality": {
+          "title": "Carousel Functionality",
+          "details": "Utilizes Swiper.js for sleek, interactive carousels to display property images efficiently."
+        },
+        "modernFramework": {
+          "title": "Modern Framework",
+          "details": "Built with Next.js to achieve fast performance, server-side rendering, and SEO optimization."
+        },
+        "conclusion": "This project emphasizes my ability to build functional and user-centric estate agency websites, and I look forward to applying these skills in future projects."
+      }
+    },
+    "restaurantLGRAN": {
+      "description": "The Restaurant Landing Page is a visually captivating website designed to attract and engage customers. It demonstrates my ability to create responsive, performance-optimized, and aesthetically pleasing web applications.",
+      "features": {
+        "modernDesign": {
+          "title": "Modern Design",
+          "details": "The landing page features a clean, modern design with high-quality visuals to enhance user engagement and effectively showcase the restaurant's brand."
+        },
+        "responsiveLayout": {
+          "title": "Responsive Layout",
+          "details": "The layout is fully responsive, ensuring an excellent user experience across devices, from mobile to desktop."
+        },
+        "smoothAnimations": {
+          "title": "Smooth Animations",
+          "details": "Framer Motion is utilized for creating smooth transitions and engaging interactive elements."
+        },
+        "lazyLoading": {
+          "title": "Lazy Loading",
+          "details": "Implemented lazy loading for images to improve performance and reduce initial load times."
+        },
+        "iconIntegration": {
+          "title": "Icon Integration",
+          "details": "Enhanced visual appeal using React Icons for intuitive and elegant design elements."
+        },
+        "optimizedPerformance": {
+          "title": "Optimized Performance",
+          "details": "Built with Vite and Tailwind CSS, ensuring fast performance and highly maintainable code."
+        }
+      },
+      "conclusion": "This project highlights my skills in developing visually appealing, responsive, and user-friendly web applications. It reflects my focus on delivering high-quality designs optimized for performance and usability."
+    },
+    "eCommerce": {
+      "description": "The Shop App is a robust e-commerce platform designed to provide users with a smooth and intuitive shopping experience. This project demonstrates my expertise in state management, responsive design, and integration of third-party services.",
+      "features": {
+        "comprehensiveEcommerceFeatures": {
+          "title": "Comprehensive E-commerce Features",
+          "details": "Includes a fully functional shopping cart, user authentication, and product filtering. Users can add items to their cart, browse product categories, and securely complete transactions."
+        },
+        "stateManagementWithReduxToolkit": {
+          "title": "State Management with Redux Toolkit",
+          "details": "Utilizes Redux Toolkit for efficient state management, ensuring smooth performance and scalability of the application."
+        },
+        "userAuthentication": {
+          "title": "User Authentication",
+          "details": "Integrated Firebase for secure user authentication, enabling users to register, log in, and manage their accounts."
+        },
+        "toastNotifications": {
+          "title": "Toast Notifications",
+          "details": "Incorporates React Toastify for elegant and responsive notifications, improving user interaction and experience."
+        },
+        "responsiveUI": {
+          "title": "Responsive UI",
+          "details": "Built with Bootstrap and custom Sass styles to ensure a modern, responsive design that adapts seamlessly across devices."
+        },
+        "formValidation": {
+          "title": "Form Validation",
+          "details": "Implemented robust form validation using the Validator library to enhance data accuracy and prevent errors."
+        },
+        "persistentData": {
+          "title": "Persistent Data",
+          "details": "Enabled persistent storage of cart and user data using Redux Persist, ensuring a consistent experience across sessions."
+        }
+      },
+      "conclusion": "This project reflects my ability to build advanced e-commerce platforms with secure authentication, state management, and responsive design. It showcases my dedication to delivering high-quality, user-centric applications optimized for performance and scalability."
+    },
+    "gymClub": {
+      "description": "The Gym Club website is a visually appealing and user-friendly platform designed to promote gym services and facilities. It showcases my skills in responsive design, form integration, and modern web development practices.",
+      "features": {
+        "modernLandingPage": {
+          "title": "Modern Landing Page",
+          "details": "Features a sleek and professional design that effectively highlights gym services, membership options, and facilities."
+        },
+        "responsiveDesign": {
+          "title": "Responsive Design",
+          "details": "Built with Bootstrap and Sass to ensure the website looks great and functions seamlessly on all devices."
+        },
+        "iconIntegration": {
+          "title": "Icon Integration",
+          "details": "Uses React Icons for intuitive and visually appealing design elements, enhancing user navigation and engagement."
+        },
+        "optimizedStyling": {
+          "title": "Optimized Styling",
+          "details": "Employs Normalize.css to ensure consistent styling across different browsers and improve overall usability."
+        },
+        "lightweightPerformance": {
+          "title": "Lightweight Performance",
+          "details": "Built with React and optimized assets to deliver fast load times and smooth interactions."
+        },
+        "conclusion": "This project highlights my expertise in creating attractive, responsive, and functional websites. It demonstrates my ability to integrate third-party services and build platforms that meet both user and business needs."
+      }
+    },
+    "travelAgency": {
+      "description": "The Travel Agency website is a visually engaging platform designed to showcase travel packages and inspire customers to explore new destinations. This project demonstrates my expertise in creating dynamic, interactive, and user-friendly websites.",
+      "features": {
+        "interactiveUserExperience": {
+          "title": "Interactive User Experience",
+          "details": "Features smooth animations using Framer Motion and interactive carousels with Swiper for an engaging browsing experience."
+        },
+        "videoIntegration": {
+          "title": "Video Integration",
+          "details": "Incorporates YouTube video embeds to provide a richer and more immersive experience for showcasing destinations."
+        },
+        "responsiveDesign": {
+          "title": "Responsive Design",
+          "details": "Built with Sass and modern styling practices to ensure compatibility and optimal performance across all devices."
+        },
+        "lazyLoading": {
+          "title": "Lazy Loading",
+          "details": "Uses React Lazy Load Image Component to optimize loading times and improve performance."
+        },
+        "routerNavigation": {
+          "title": "Router Navigation",
+          "details": "Implemented with React Router DOM for seamless navigation between pages and a smooth user experience."
+        }
+      },
+      "conclusion": "This project highlights my ability to build engaging and functional websites for businesses. It showcases my skills in integrating dynamic features, optimizing performance, and creating an exceptional user experience."
+    },
+    "arithmetic": {
+      "description": "The Arithmetic game is a delightful, interactive platform designed for children to practice basic math skills in an engaging and fun way. This project highlights my ability to create educational and entertaining applications with a focus on simplicity and user engagement.",
+      "features": {
+        "engagingGameplay": {
+          "title": "Engaging Gameplay",
+          "details": "Simple arithmetic exercises designed to make learning math enjoyable and interactive for children."
+        },
+        "celebratoryAnimations": {
+          "title": "Celebratory Animations",
+          "details": "Features confetti animations using React Confetti to reward correct answers and motivate players."
+        },
+        "statePersistence": {
+          "title": "State Persistence",
+          "details": "Leverages Redux Toolkit and Redux Persist to store game progress and settings across sessions, ensuring continuity."
+        },
+        "childFriendlyDesign": {
+          "title": "Child-Friendly Design",
+          "details": "Built with Bootstrap and Sass to create a colorful and intuitive interface tailored for young users."
+        },
+        "navigationSystem": {
+          "title": "Navigation System",
+          "details": "Uses React Router DOM for seamless navigation between game levels and settings."
+        }
+      },
+      "conclusion": "This project demonstrates my capability to build interactive, user-focused applications. By blending educational content with engaging design, I’ve created a game that helps children learn math while having fun."
+    },
+    "weatherApp": {
+      "description": "The Weather App is a user-friendly application designed to provide real-time weather forecasts. It uses simple and intuitive features to help users check the weather for their desired locations with ease. This project showcases my ability to build responsive and functional applications using modern technologies.",
+      "features": {
+        "realTimeWeatherData": {
+          "title": "Real-Time Weather Data",
+          "details": "Fetches weather information from a weather API to provide up-to-date and accurate forecasts for any given location."
+        },
+        "responsiveLayout": {
+          "title": "Responsive Layout",
+          "details": "Utilizes Tailwind CSS for a responsive and visually appealing layout, ensuring the app looks great on mobile and desktop."
+        },
+        "loadingIndicators": {
+          "title": "Loading Indicators",
+          "details": "Features smooth loading animations using React Spinners, providing a seamless user experience while waiting for data to load."
+        },
+        "navigationSystem": {
+          "title": "Navigation System",
+          "details": "Uses React Router DOM to enable smooth transitions between different views and sections of the application."
+        }
+      },
+      "conclusion": "This Weather App demonstrates my ability to create interactive and responsive applications. It highlights my skills in API integration, real-time data fetching, and building a user-friendly interface."
+    }
+  }
+}
