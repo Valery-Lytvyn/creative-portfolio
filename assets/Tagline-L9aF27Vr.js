@@ -1,1 +1,0 @@
-import{j as t,g as a}from"./index-CpcU_EXc.js";const x=({slogan:i,styles:e})=>t.jsx("div",{className:`${e}`,children:t.jsx(a.h3,{className:"title text-2xl italic text-secondary md:text-3xl lg:text-4xl",initial:{x:"-40%",opacity:0},whileInView:{x:0,opacity:1},transition:{duration:1},children:i})});export{x as T};
